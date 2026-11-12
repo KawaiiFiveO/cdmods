@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+# Your own mod list
+modlist.json
+modlist.json.tmp
+modlist.html
+CLAUDE.md
+PLAN.md
